@@ -1,0 +1,25 @@
+idf_component_register(
+    SRCS 
+        "main.c"
+        "wifi_manager.c"
+        "wake_word.c"
+        "audio_stream.c"
+        "websocket_client.c"
+        "device_mgmt.c"
+    INCLUDE_DIRS "."
+    REQUIRES 
+        nvs_flash
+        esp_wifi
+        esp_event
+        esp_netif
+        driver
+        esp_websocket_client
+        esp_http_client
+        esp_https_ota
+        app_update
+        json
+        mdns
+        freertos
+        esp_system
+        lwip
+)

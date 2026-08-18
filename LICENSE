@@ -1,0 +1,41 @@
+# CERN Open Hardware Licence Version 2 — Strongly Reciprocal
+
+## Applicability
+
+This license applies to the hardware designs, schematics, PCB layouts and
+ESP32 firmware source code in this repository (agtos-ai/agtos-firmware).
+
+## Preamble
+
+CERN has developed this licence to promote collaboration among hardware
+designers and to provide a legal tool which supports the freedom to use,
+study, modify, share and distribute hardware designs and products based
+on those designs. Version 2 of the CERN Open Hardware Licence comes in
+three variants: CERN-OHL-P (permissive); and two reciprocal licences,
+CERN-OHL-W (weakly reciprocal) and this licence, CERN-OHL-S (strongly
+reciprocal).
+
+The CERN-OHL-S is copyright CERN 2020. Anyone is welcome to use it, in
+unmodified form only.
+
+Use of this Licence does not imply any endorsement by CERN of any
+Licensor or their designs nor does it imply any involvement by CERN in
+their development.
+
+## Full License Text
+
+The full text of the CERN-OHL-S v2 is available at:
+https://ohwr.org/cern_ohl_s_v2.txt
+
+By contributing hardware designs to this repository, you agree that your
+contributions will be licensed under the CERN-OHL-S v2.
+
+## Source Location
+
+The hardware source files covered by this license are located at:
+https://github.com/agtos-ai/agtos/tree/main/firmware
+
+## Notice
+
+Copyright 2025-2026 agtOS Contributors
+Licensed under CERN-OHL-S v2 or any later version.
